@@ -1,2 +1,2 @@
-# UIQA
-Towards Underwater Image Quality Assessment
+# SGUIQA
+Semantic-Guided Multi-Feature Fusion for Underwater Image Quality Assessment
